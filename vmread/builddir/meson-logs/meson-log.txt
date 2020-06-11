@@ -1,0 +1,450 @@
+Build started at 2020-04-08T16:42:14.344511
+Main binary: /usr/bin/python
+Build Options: -Dbackend=ninja
+Python system: Linux
+The Meson build system
+Version: 0.53.2
+Source dir: /home/rronald/Downloads/gay/vmread-master
+Build dir: /home/rronald/Downloads/gay/vmread-master/builddir
+Build type: native build
+Project name: vmread
+Project version: 1.3
+C compiler for the build machine: cc (gcc 9.2.1 "cc (Arch Linux 9.2.1+20200130-2) 9.2.1 20200130")
+C linker for the build machine: cc ld.bfd 2.34
+C++ compiler for the build machine: c++ (gcc 9.2.1 "c++ (Arch Linux 9.2.1+20200130-2) 9.2.1 20200130")
+C++ linker for the build machine: c++ ld.bfd 2.34
+C compiler for the host machine: cc (gcc 9.2.1 "cc (Arch Linux 9.2.1+20200130-2) 9.2.1 20200130")
+C linker for the host machine: cc ld.bfd 2.34
+C++ compiler for the host machine: c++ (gcc 9.2.1 "c++ (Arch Linux 9.2.1+20200130-2) 9.2.1 20200130")
+C++ linker for the host machine: c++ ld.bfd 2.34
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8vpz4y3_
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8vpz4y3_/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8vpz4y3_/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Weverything 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ cc: error: unrecognized command line option '-Weverything'
+
+Compiler for C supports arguments -Weverything: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpoy8x7_9j
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpoy8x7_9j/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpoy8x7_9j/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Weverything 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Weverything'
+
+Compiler for C++ supports arguments -Weverything: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp758hkyvx
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp758hkyvx/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp758hkyvx/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-padded -Wpadded 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wno-padded -Wpadded: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpkm3zqvnn
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpkm3zqvnn/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpkm3zqvnn/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-padded -Wpadded 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports arguments -Wno-padded -Wpadded: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3pqcfjw1
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3pqcfjw1/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3pqcfjw1/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-sign-conversion -Wsign-conversion 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wno-sign-conversion -Wsign-conversion: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8_6n6cc2
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8_6n6cc2/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8_6n6cc2/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-sign-conversion -Wsign-conversion 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports arguments -Wno-sign-conversion -Wsign-conversion: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpyzg9g5ve
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpyzg9g5ve/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpyzg9g5ve/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-padded -Wpadded 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wno-padded -Wpadded: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpta02ap73
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpta02ap73/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpta02ap73/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-padded -Wpadded 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports arguments -Wno-padded -Wpadded: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpnczk3qxf
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpnczk3qxf/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpnczk3qxf/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-documentation-unknown-command -Wdocumentation-unknown-command 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ cc: error: unrecognized command line option '-Wdocumentation-unknown-command'
+
+Compiler for C supports arguments -Wno-documentation-unknown-command -Wdocumentation-unknown-command: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3cbxdngl
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3cbxdngl/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3cbxdngl/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-documentation-unknown-command -Wdocumentation-unknown-command 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wdocumentation-unknown-command'
+
+Compiler for C++ supports arguments -Wno-documentation-unknown-command -Wdocumentation-unknown-command: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp4ka4622p
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp4ka4622p/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp4ka4622p/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-missing-variable-declarations -Wmissing-variable-declarations 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ cc: error: unrecognized command line option '-Wmissing-variable-declarations'; did you mean '-Wmissing-declarations'?
+
+Compiler for C supports arguments -Wno-missing-variable-declarations -Wmissing-variable-declarations: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpvzbbtx_j
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpvzbbtx_j/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpvzbbtx_j/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-missing-variable-declarations -Wmissing-variable-declarations 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wmissing-variable-declarations'; did you mean '-Wmissing-declarations'?
+
+Compiler for C++ supports arguments -Wno-missing-variable-declarations -Wmissing-variable-declarations: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8aq46uam
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8aq46uam/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp8aq46uam/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-c++98-compat -Wc++98-compat 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ cc: error: unrecognized command line option '-Wc++98-compat'; did you mean '-Wc++-compat'?
+
+Compiler for C supports arguments -Wno-c++98-compat -Wc++98-compat: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp5eja7nga
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp5eja7nga/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp5eja7nga/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-c++98-compat -Wc++98-compat 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wc++98-compat'; did you mean '-Wc++-compat'?
+
+Compiler for C++ supports arguments -Wno-c++98-compat -Wc++98-compat: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp1gh_kcm6
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp1gh_kcm6/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp1gh_kcm6/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-c++98-compat-pedantic -Wc++98-compat-pedantic 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ cc: error: unrecognized command line option '-Wc++98-compat-pedantic'
+
+Compiler for C supports arguments -Wno-c++98-compat-pedantic -Wc++98-compat-pedantic: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp0uwcfiyj
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp0uwcfiyj/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp0uwcfiyj/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-c++98-compat-pedantic -Wc++98-compat-pedantic 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wc++98-compat-pedantic'
+
+Compiler for C++ supports arguments -Wno-c++98-compat-pedantic -Wc++98-compat-pedantic: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp7967uxgp
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp7967uxgp/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp7967uxgp/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-weak-vtables -Wweak-vtables 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ cc: error: unrecognized command line option '-Wweak-vtables'
+
+Compiler for C supports arguments -Wno-weak-vtables -Wweak-vtables: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpt9qt5b6d
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpt9qt5b6d/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpt9qt5b6d/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-weak-vtables -Wweak-vtables 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wweak-vtables'
+
+Compiler for C++ supports arguments -Wno-weak-vtables -Wweak-vtables: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp_ey6on3t
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp_ey6on3t/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp_ey6on3t/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wl,--start-group -lX11 -Wl,--end-group 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -lX11: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp5simd8nj
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp5simd8nj/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp5simd8nj/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lX11 -Wl,--end-group 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports arguments -lX11: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3nkqzvsd
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3nkqzvsd/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp3nkqzvsd/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -pthread 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -pthread: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpg44hbz05
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpg44hbz05/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpg44hbz05/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -pthread 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports arguments -pthread: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpi5x1_ipu
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpi5x1_ipu/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpi5x1_ipu/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-padded -Wpadded 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports arguments -Wno-padded -Wpadded: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp86m0rjsz
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp86m0rjsz/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp86m0rjsz/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-c++98-compat -Wc++98-compat 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wc++98-compat'; did you mean '-Wc++-compat'?
+
+Compiler for C++ supports arguments -Wno-c++98-compat -Wc++98-compat: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmphazuwanm
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmphazuwanm/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmphazuwanm/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-padded -Wpadded 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports arguments -Wno-padded -Wpadded: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpdmw6oitd
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpdmw6oitd/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpdmw6oitd/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-c++98-compat-pedantic -Wc++98-compat-pedantic 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wc++98-compat-pedantic'
+
+Compiler for C++ supports arguments -Wno-c++98-compat-pedantic -Wc++98-compat-pedantic: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpt7pgv213
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpt7pgv213/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpt7pgv213/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-weak-vtables -Wweak-vtables 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wweak-vtables'
+
+Compiler for C++ supports arguments -Wno-weak-vtables -Wweak-vtables: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpl8cohc51
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpl8cohc51/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpl8cohc51/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-documentation-unknown-command -Wdocumentation-unknown-command 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option '-Wdocumentation-unknown-command'
+
+Compiler for C++ supports arguments -Wno-documentation-unknown-command -Wdocumentation-unknown-command: NO 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp1fdgysy7
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp1fdgysy7/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp1fdgysy7/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wno-old-style-cast -Wold-style-cast 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports arguments -Wno-old-style-cast -Wold-style-cast: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpq560_xor
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpq560_xor/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpq560_xor/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wno-missing-prototypes -Wmissing-prototypes 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wno-missing-prototypes -Wmissing-prototypes: YES 
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp65b0fzs9
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp65b0fzs9/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmp65b0fzs9/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -Wl,--start-group -ldl -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(void) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library dl found: YES
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpm96wdb9l
+Command line:  cc /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpm96wdb9l/testfile.c -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpm96wdb9l/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -Wl,--start-group -lpthread -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(void) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library pthread found: YES
+Build targets in project: 3
+
+Found ninja-1.10.0 at /usr/bin/ninja
+Running compile:
+Working directory:  /tmp/tmp7c06bvxe
+Command line:  c++ /tmp/tmp7c06bvxe/testfile.cpp -o /tmp/tmp7c06bvxe/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++14 
+
+Code:
+ int i = static_cast<int>(0);
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler accepts -std=c++14: YES
+Running compile:
+Working directory:  /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpvau6bzsq
+Command line:  c++ /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpvau6bzsq/testfile.cpp -o /home/rronald/Downloads/gay/vmread-master/builddir/meson-private/tmpvau6bzsq/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/
+programs: =/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/../../../../x86_64-pc-linux-gnu/bin/x86_64-pc-linux-gnu/9.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/../../../../x86_64-pc-linux-gnu/bin/
+libraries: =/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/../../../../x86_64-pc-linux-gnu/lib/x86_64-pc-linux-gnu/9.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/../../../../x86_64-pc-linux-gnu/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/../../../x86_64-pc-linux-gnu/9.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/../../../../lib/:/lib/x86_64-pc-linux-gnu/9.2.1/:/lib/../lib/:/usr/lib/x86_64-pc-linux-gnu/9.2.1/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/../../../../x86_64-pc-linux-gnu/lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.1/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 

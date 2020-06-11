@@ -1,0 +1,7 @@
+build/*
+docs
+*.o
+*.swp
+*.swo
+read_external
+read_kmod
