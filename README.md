@@ -23,5 +23,6 @@ Added Features:
 How to install:
 
 - install meson and ninja on your linux host
+- run "meson builddir" inside vmread folder
 - run "ninja" command in builddir to build example.cpp
 - run "./example"
