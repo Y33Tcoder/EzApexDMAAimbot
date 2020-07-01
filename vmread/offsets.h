@@ -2,7 +2,7 @@
 //Offsets
 #define OFFSET_ENTITYLIST			0x175dc28
 //#define OFFSET_LOCAL				0x1B0C3A8
-#define OFFSET_LOCAL_ENT			0x1b0c3a8 //(grapple_swingPullAngle+0xA8)0x022E93F8
+#define OFFSET_LOCAL_ENT			0x1b0c448 //(grapple_swingPullAngle+0xA8)0x022E93F8
 
 
 #define OFFSET_TEAM					0x3F0
@@ -24,7 +24,7 @@
 #define OFFSET_BULLET_GRAVITY       0x1D50
 
 #define OFFSET_MATRIX 0x1b3bd0
-#define OFFSET_RENDER 0x3f5a970
+#define OFFSET_RENDER 0x3f5a9f8
 
 
 //W2S pattern (view render and view matrix) 48 89 ?? ?? ?? 57 48 83 EC ?? 48 8B D9 48 8B FA 48 8B 0D ?? ?? ?? ?? 33 D2 48 8B 01 FF
